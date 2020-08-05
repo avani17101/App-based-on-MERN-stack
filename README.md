@@ -1,6 +1,6 @@
-#Shoppenz App
-Roll no: 2019121004
-Features: login, signup in two different roles + Upload product
+# Shoppenz App
+
+Features: login, signup in two different roles + Upload product and view uploaded products
 
 
 ## Setup
